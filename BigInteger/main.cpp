@@ -14,6 +14,7 @@ int main()
     double z = 1.3;
     double res2 = math.Sum2(x,z);
     cout << endl << "res= " << r << endl << "res= " << res2;
-
+     //hui
+    
     return 0;
 }
